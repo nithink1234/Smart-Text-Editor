@@ -1,13 +1,13 @@
 # Smart-Text-Editor 
 
 I have implemented the Smart Text Editor which has the following features: 
-Flesch Readability Index 
+Flesch Readability Index. 
     Files: Basic Document, Efficient Document and Document.       
     Details: Determine the readability of the input text by calculating the no of words, sentences and syllables in the text.
 
-Markov Auto Generate: 
-    Files: Markov Text Generator LoL
-    Details: Created a Linked List data structure and List of Lists, used it to implement Markov Auto generate text feature. 
+Markov Auto Generate:
+Files: Markov Text Generator LoL
+Details: Create a Linked List data structure and List of Lists, used it to implement Markov Auto generate text feature. 
 
 Spell Check:
     Files: DictionaryBST, DictionaryLL
